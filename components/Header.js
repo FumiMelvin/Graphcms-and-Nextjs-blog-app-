@@ -19,7 +19,7 @@ function Header() {
               className=" cursor-pointer"
             />
           </Link>
-          <span className="self-center text-xl whitespace-nowrap text-white pl-2">
+          <span className="self-center text-xl whitespace-nowrap text-white pl-2 hidden sm:flex">
             GraphCMS Blog
           </span>
         </div>

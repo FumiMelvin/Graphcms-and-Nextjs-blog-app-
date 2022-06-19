@@ -24,13 +24,13 @@ function Footer() {
           </div>
           <div className="flex mt-4 space-x-8 sm:justify-center sm:mt-0 text-lg">
             <Link
-              href="#"
+              href="https://twitter.com/fumi_melvin"
               className="text-gray-300 cursor-pointer hover:text-secondary"
             >
               <RiTwitterFill />
             </Link>
             <Link
-              href="#"
+              href="https://github.com/FumiMelvin"
               className="text-gray-300 cursor-pointer hover:text-secondary"
             >
               <RiGithubFill />
@@ -42,7 +42,7 @@ function Footer() {
               <BsGlobe />
             </Link>
             <Link
-              href="#"
+              href="mailto:fumelvin.ngobeni@gmail.com"
               className="text-gray-300 cursor-pointer hover:text-secondary"
             >
               <RiMailFill />
